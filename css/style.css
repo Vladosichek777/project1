@@ -96,8 +96,6 @@ body {
   margin-bottom: 60px;
 }
 
-.title__img {
-}
 /*-----------------------------------------MENU-----------------------------------------------------------------*/
 
 .menu {
@@ -375,8 +373,6 @@ body {
   margin-right: 25px;
 }
 
-.apartments__image {
-}
 .apartments__text {
   width: 148px;
   height: 50px;
@@ -731,8 +727,7 @@ body {
   color: #ffffff;
   margin-bottom: 43px;
 }
-.managers__link {
-}
+
 .managers__link__item {
   font-size: 18px;
   line-height: 18px;
@@ -849,8 +844,6 @@ body {
 }
 
 /*-----------------------------------FOOTER--------------------------------*/
-.footer {
-}
 
 .footer__container {
   max-width: 1055px;
