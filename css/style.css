@@ -637,7 +637,7 @@ body {
 .container-cottage {
   background-size: cover;
   min-height: 100vh;
-  background-image: url(допы/дом.jpg);
+  background-image: url(../допы/дом.jpg);
   background-repeat: no-repeat;
   background-position: center;
   text-align: end;
@@ -773,7 +773,7 @@ body {
   content: "";
   width: 30px;
   height: 30px;
-  background-image: url(допы/стрелка2.png);
+  background-image: url(../допы/стрелка2.png);
   left: -3px;
   top: -4px;
 }
